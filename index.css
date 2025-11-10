@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    background-color: rgba(27, 36, 74, 1);
+    width: 575px; 
+    height: 385px;
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    text-align: center;
+    align-content: center;
+    border: 2px solid rgba(154, 171, 216, 1);
+    width: 155;
+    height: 45;
+    top: auto;
+    left: 82px;
+    border-radius: 5px;
+    background-color: rgba(27, 36, 74, 1);
+    color: rgba(154, 171, 216, 1);
+    font-family: "Bytesized", sans-serif;
+}
+h3 {
+    top: 68px;
+    size: 40px;
+    color: white;
+    margin-left: 25px;
+}
+p {
+    align-content: center;
+    width: 155;
+    height: 120;
+    color: rgba(249, 79, 109, 1);
+    background-color: black;
+    border-radius: 5px;
+    font-family: "Bytesized", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 90px;
+    text-align: center;
+}
